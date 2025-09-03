@@ -1,0 +1,7 @@
+# Environments & Tools (documented; install inside Qubes VMs)
+# Qubes OS (host)
+# AppVM: Ubuntu/Fedora template with pentest tools
+metasploit
+nmap
+zaproxy
+wfuzz
